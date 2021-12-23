@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Dark theme
+
+A button has been created to check the theme and store it in the browser's local memory, creating color styles for the dark theme and the light theme
+
+# Languages used
+
+dev: Typescript and React
+style: styled components
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
