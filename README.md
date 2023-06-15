@@ -1,55 +1,57 @@
-# Dark theme
+<h1 align="center">Theme dark react</h1>
 
-A button has been created to check the theme and store it in the browser's local memory, creating color styles for the dark theme and the light theme
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/diogorochaa" target="_blank">Author</a>
+</p>
 
-# Languages used
+<br>
 
-dev: Typescript and React
-style: styled components
+## :dart: About
 
-### Getting Started with Create React App
+Esse projeto foi desenvolvido para desenvolver o tema dark com react s styled components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## :rocket: Technologies
 
-### Available Scripts
+The following tools were used in this project:
 
-In the project directory, you can run:
+- [React](https://pt-br.reactjs.org/)
+- [Styled Components](https://styled-components.com/)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :white_check_mark: Requirements
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-### `npm test`
+## :checkered_flag: Starting
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+# Clone this project
+$ git clone https://github.com/diogorochaa/theme-dark-react.git
 
-### `npm run build`
+# Access
+$ cd theme-dark-react
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Install dependencies
+$ npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Run the project
+$ npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# The server will initialize in the <http://localhost:3000>
 
-### `npm run eject`
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :memo: License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Made with :heart: by <a href="https://github.com/diogorochaa" target="_blank">Diogo</a>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+&#xa0;
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="#top">Back to top</a>
